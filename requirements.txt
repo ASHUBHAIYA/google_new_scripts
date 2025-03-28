@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+beautifulsoup4
+requests
+nltk
+transformers
+psycopg2-binary
+schedule
