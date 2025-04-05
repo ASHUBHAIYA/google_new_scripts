@@ -8,8 +8,8 @@ DB_PORT="5432"
 APP_DIR="/home/ubuntu/google_news_copy/google_new_scripts"
 SCRAPER_SERVICE="/etc/systemd/system/scraper.service"
 FLASK_SERVICE="/etc/systemd/system/flaskapi.service"
-DOMAIN="api.yourdomain.com"  # Replace with your actual domain
-EMAIL="you@example.com"      # Replace with a valid email
+DOMAIN="heyheynews.work.gd"  # Replace with your actual domain
+EMAIL="abhishek791996@gmail.com"      # Replace with a valid email
 APP_MODULE="app:app"         # Adjust if your Flask app uses a different name
 
 # === UPDATE SYSTEM ===
