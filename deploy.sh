@@ -10,7 +10,7 @@ SCRAPER_SERVICE="/etc/systemd/system/scraper.service"
 FLASK_SERVICE="/etc/systemd/system/flaskapi.service"
 DOMAIN="heyheynews.work.gd"  # Replace with your actual domain
 EMAIL="abhishek791996@gmail.com"      # Replace with a valid email
-APP_MODULE="run:app"         # Adjust if your Flask app uses a different name
+APP_MODULE="app:app"         # Adjust if your Flask app uses a different name
 
 # === UPDATE SYSTEM ===
 echo "🔄 Updating system..."
